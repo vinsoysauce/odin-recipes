@@ -32,6 +32,7 @@ HTML:
 Other:
 - Reading docs
 - File organization
+- Creative Commons Licenses
 
 ## Comments
 As a person who uses tech alot but not create them, I though it required some
