@@ -49,19 +49,13 @@ Project is trying to teach, learn enough then move.
 
 ## Credits
 
-For the recipes:
-Vanjo Merano is the author of the recipes below
-https://panlasangpinoy.com/filipino-food-pork-adobo-recipe/
-https://panlasangpinoy.com/filipino-vegetable-food-eggplant-omelet-tortang-talong-recipe/
-https://panlasangpinoy.com/utan-bisaya/
+Vanjo Merano is the author of the awesome recipes below:
+-https://panlasangpinoy.com/filipino-food-pork-adobo-recipe/
+-https://panlasangpinoy.com/filipino-vegetable-food-eggplant-omelet-tortang-talong-recipe/
+-https://panlasangpinoy.com/utan-bisaya/
 
 
 For the images:
-dbgg1979 from flickr
-https://www.flickr.com/photos/dbgg1979/4034907574/
-
-hermitsmoores from flickr
-https://www.flickr.com/photos/hermitsmoores/4792190571
-
-Noviember30 from wikimedia
-https://commons.wikimedia.org/wiki/File:Utan_Bisaya.jpg
+-dbgg1979 from flickr:https://www.flickr.com/photos/dbgg1979/4034907574/
+-hermitsmoores from flickr:https://www.flickr.com/photos/hermitsmoores/4792190571
+-Noviember30 from wikimedia:https://commons.wikimedia.org/wiki/File:Utan_Bisaya.jpg
