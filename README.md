@@ -27,7 +27,6 @@ HTML:
 - using headers and paragraphs for heading and paragraph contents
 - using anchors and img for relative links and images
 - using ordered and unordered lists for content that are list-like
-- 
 
 Other:
 - Reading docs
@@ -51,7 +50,7 @@ Project is trying to teach, learn enough then move.
 ## Credits
 
 For the recipes:
-Vanjo Merano is the authot of the recipes below
+Vanjo Merano is the author of the recipes below
 https://panlasangpinoy.com/filipino-food-pork-adobo-recipe/
 https://panlasangpinoy.com/filipino-vegetable-food-eggplant-omelet-tortang-talong-recipe/
 https://panlasangpinoy.com/utan-bisaya/
