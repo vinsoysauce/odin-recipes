@@ -2,9 +2,41 @@ html {
   box-sizing: border-box;
 }
 
-html {
-  box-sizing: border-box;
-}
-*, *:before, *:after {
+*,
+*::before,
+*::after {
   box-sizing: inherit;
 }
+
+body {
+  width: 500px;
+  margin: 0 auto;
+  background-color: #fcf9f7;
+}
+
+li {
+  margin: 50px;
+  font-size: 20px;
+}
+
+.header-container, .list-container {
+  text-align: center;
+}
+
+.header {
+border: solid 5px #efe1d5;
+font-size: 50px;
+padding: 50px;
+background-color: #f9f3ee;
+}
+
+.recipe-list {
+  list-style: none;
+  padding-left: 0;
+}
+
+.list-container {
+  border: solid 5px #efe1d5;
+  background-color: #f9f3ee;
+}
+
